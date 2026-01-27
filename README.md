@@ -19,7 +19,8 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Survey Papers
 
-> **Note**: The following are related survey papers in remote sensing. However, **visual generative models remain under-explored** in all existing remote sensing surveys. This repository aims to fill this gap by providing a comprehensive collection of visual generative models specifically for **satellite images**. We focus exclusively on satellite imagery and exclude aerial images, street-view images, and their applications.
+> [!IMPORTANT] 
+> The following are related survey papers in remote sensing. However, **visual generative models remain under-explored** in all existing remote sensing surveys. This repository aims to fill this gap by providing a comprehensive collection of visual generative models specifically for **satellite images**. We focus exclusively on satellite imagery and exclude aerial images, street-view images, and their applications.
 
 | Title | Year | Venue | Tags | Link |
 |-------|------|-------|------|------|
@@ -34,9 +35,9 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Scene Synthesis (Unconditional/Text-to-Image Generation)
 
-
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Uni-RS: A Spatially Faithful Unified Understanding and Generation Model for Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.17673), [DOI](https://doi.org/10.48550/arXiv.2601.17673) | N/A |
 | HSIGene: A Foundation Model for Hyperspectral Image Generation | 2026 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2025.3610927) | [GitHub](https://github.com/LiPang/HSIGene) |
 | Extrapolate Azimuth Angles: Text and Edge Guided ISAR Image Generation Based on Foundation Model | 2026 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2025.12.002) | N/A |
 | Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
@@ -70,7 +71,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.04678) / [DOI](https://doi.org/10.48550/arXiv.2507.04678) | N/A |
+| ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.04678)  | N/A |
 | Exploring Text-Guided Single Image Editing for Remote Sensing Images | 2025 | JSTAR | [DOI](https://doi.org/10.1109/JSTARS.2025.3584418) | N/A |
 | Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
 | DiffusionSat: A Generative Foundation Model for Satellite Imagery | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2312.03606) | [GitHub](https://github.com/samar-khanna/DiffusionSat) |
@@ -90,7 +91,6 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
 | TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data | 2025 | CVPR Workshop | [arXiv](https://arxiv.org/abs/2504.11172) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
-<!-- | TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06281) | [GitHub](https://github.com/mbzuai-oryx/TerraFM) | -->
 | SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
 | MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [DOI](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
 | Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
