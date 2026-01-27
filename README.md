@@ -21,6 +21,19 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Survey Papers
 
+> **Note**: The following are related survey papers in remote sensing. However, **visual generative models remain under-explored** in all existing remote sensing surveys. This repository aims to fill this gap by providing a comprehensive collection of visual generative models specifically for remote sensing applications.
+
+| Title | Year | Venue | Tags | Link |
+|-------|------|-------|------|------|
+| From Orbit to Ground: A Comprehensive Review of Multimodal Self-Supervised Learning for Remote Sensing | 2025 | IEEE Geoscience and Remote Sensing Magazine | Multimodal, SSL | [DOI](https://doi.org/10.1109/MGRS.2025.3588505) |
+| Remote Sensing Spatiotemporal Vision--Language Models: A Comprehensive Survey | 2025 | IEEE Geoscience and Remote Sensing Magazine | VLMs, (Spatio-)Temporal-VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3598283) |
+| Vision-Language Models in Remote Sensing: Current Progress and Future Trends | 2024 | IEEE Geoscience and Remote Sensing Magazine | VLMs | [DOI](https://doi.org/10.1109/MGRS.2024.3383473) |
+| Vision Foundation Models in Remote Sensing: A Survey | 2025 | IEEE Geoscience and Remote Sensing Magazine | Vision Foundation Models, SSL  | [DOI](https://doi.org/10.1109/MGRS.2025.3541952) |
+| Artificial Intelligence to Advance Earth Observation: A Review of Models, Recent Trends, and Pathways Forward | 2025 | IEEE Geoscience and Remote Sensing Magazine | Representation Learning | [DOI](https://doi.org/10.1109/MGRS.2024.3425961) |
+| Vision-Language Modeling Meets Remote Sensing: Models, Datasets, and Perspectives | 2025 | IEEE Geoscience and Remote Sensing Magazine | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3572702) |
+| Foundation Models for Remote Sensing and Earth Observation: A Survey | 2025 | IEEE Geoscience and Remote Sensing Magazine | Vision Foundation Models, VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3576766) |
+| Regression in Earth Observation: Are Vision--Language Models up to the Challenge? | 2025 | IEEE Geoscience and Remote Sensing Magazine | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3596243) |
+
 ## Scene Synthesis
 
 ### Unconditional Generation
