@@ -71,17 +71,17 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data | 2025 | CVPR Workshop | | |
-| TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06281) | |
-| SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | |
-| MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [DOI](https://doi.org/10.1007/978-3-031-73039-9_10) | |
-| Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | |
-| Galileo: Learning Global & Local Features of Many Remote Sensing Modalities | 2025 | ICML | | |
-| EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision | 2025 | WACV Workshop | | |
-| Towards a Unified Copernicus Foundation Model for Earth Vision | 2025 | ICCV | | |
-| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | |
-| OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [DOI](https://doi.org/10.1109/WACV56688.2023.00619) | |
-| OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | |
+| TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data | 2025 | CVPR Workshop | [arXiv](https://arxiv.org/abs/2504.11172) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
+| TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06281) | [GitHub](https://github.com/mbzuai-oryx/TerraFM) |
+| SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
+| MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [DOI](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
+| Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
+| Galileo: Learning Global & Local Features of Many Remote Sensing Modalities | 2025 | ICML | [arXiv](https://arxiv.org/abs/2502.09356) | [GitHub](https://github.com/nasaharvest/galileo) |
+| EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision | 2025 | WACV Workshop | [arXiv](https://arxiv.org/abs/2501.08111) | [GitHub](https://github.com/satellogic/satellogic-earthview) |
+| Towards a Unified Copernicus Foundation Model for Earth Vision | 2025 | ICCV | [arXiv](https://arxiv.org/abs/2503.11849) | [GitHub](https://github.com/zhu-xlab/Copernicus-FM) |
+| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
+| OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [DOI](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
+| OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
 
 ## Evaluation Metrics
 
