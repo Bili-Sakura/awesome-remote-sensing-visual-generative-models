@@ -7,9 +7,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 ## Contents
 
 - [Survey Papers](#survey-papers)
-- [Scene Synthesis](#scene-synthesis)
-  - [Unconditional Generation](#unconditional-generation)
-  - [Text-to-Image Generation](#text-to-image-generation)
+- [Scene Synthesis (Unconditional/Text-to-Image Generation)](#scene-synthesis-unconditionaltext-to-image-generation)
 - [Controllable & Structural Synthesis](#controllable--structural-synthesis)
 - [Image-to-Image Translation & Restoration](#image-to-image-translation--restoration)
 - [Inpainting & Content Editing](#inpainting--content-editing)
@@ -34,17 +32,19 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Foundation Models for Remote Sensing and Earth Observation: A Survey | 2025 | IEEE MGRS | Vision Foundation Models, VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3576766) |
 | Regression in Earth Observation: Are Vision--Language Models up to the Challenge? | 2025 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3596243) |
 
-## Scene Synthesis
+## Scene Synthesis (Unconditional/Text-to-Image Generation)
 
-### Unconditional Generation
-
-| Title | Year | Venue | Paper Link | Code Link |
-|-------|------|-------|------------|-----------|
-
-### Text-to-Image Generation
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| HSIGene: A Foundation Model for Hyperspectral Image Generation | 2026 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2025.3610927) | [GitHub](https://github.com/LiPang/HSIGene) |
+| Extrapolate Azimuth Angles: Text and Edge Guided ISAR Image Generation Based on Foundation Model | 2026 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2025.12.002) | N/A |
+| Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
+| ZoomLDM: Latent Diffusion Model for Multi-scale Image Generation | 2025 | CVPR | [arXiv](https://arxiv.org/abs/2411.16969) | [GitHub](https://github.com/cvlab-stonybrook/ZoomLDM) |
+| MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation | 2025 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2024.3507010) | [GitHub](https://github.com/jiupinjia/MetaEarth) |
+| DiffusionSat: A Generative Foundation Model for Satellite Imagery | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2312.03606) | [GitHub](https://github.com/samar-khanna/DiffusionSat) |
+| RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model | 2024 | Neural Computing and Applications | [DOI](https://doi.org/10.1007/s00521-024-10363-3) | N/A |
+
 
 ## Controllable & Structural Synthesis
 
