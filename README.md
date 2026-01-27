@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/Bili-Sakura/awesome-remote-sensing-visual-generative-models.svg?style=social&label=Star)](https://github.com/Bili-Sakura/awesome-remote-sensing-visual-generative-models) [![GitHub forks](https://img.shields.io/github/forks/Bili-Sakura/awesome-remote-sensing-visual-generative-models.svg?style=social&label=Fork)](https://github.com/Bili-Sakura/awesome-remote-sensing-visual-generative-models/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Bili-Sakura/awesome-remote-sensing-visual-generative-models.svg?style=social&label=Watch)](https://github.com/Bili-Sakura/awesome-remote-sensing-visual-generative-models) [![GitHub issues](https://img.shields.io/github/issues/Bili-Sakura/awesome-remote-sensing-visual-generative-models)](https://github.com/Bili-Sakura/awesome-remote-sensing-visual-generative-models/issues) [![GitHub contributors](https://img.shields.io/github/contributors/Bili-Sakura/awesome-remote-sensing-visual-generative-models)](https://github.com/Bili-Sakura/awesome-remote-sensing-visual-generative-models/graphs/contributors)
 
-A curated list of awesome remote sensing visual generative models, papers, datasets, and resources.
+A curated list of awesome remote sensing visual generative models, papers, datasets, and resources. This repository focuses exclusively on **satellite images** and excludes aerial images, street-view images, and their applications.
 
 ## Contents
 
@@ -21,36 +21,72 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Survey Papers
 
-> **Note**: The following are related survey papers in remote sensing. However, **visual generative models remain under-explored** in all existing remote sensing surveys. This repository aims to fill this gap by providing a comprehensive collection of visual generative models specifically for remote sensing applications.
+> **Note**: The following are related survey papers in remote sensing. However, **visual generative models remain under-explored** in all existing remote sensing surveys. This repository aims to fill this gap by providing a comprehensive collection of visual generative models specifically for **satellite images**. We focus exclusively on satellite imagery and exclude aerial images, street-view images, and their applications.
 
 | Title | Year | Venue | Tags | Link |
 |-------|------|-------|------|------|
-| From Orbit to Ground: A Comprehensive Review of Multimodal Self-Supervised Learning for Remote Sensing | 2025 | IEEE Geoscience and Remote Sensing Magazine | Multimodal, SSL | [DOI](https://doi.org/10.1109/MGRS.2025.3588505) |
-| Remote Sensing Spatiotemporal Vision--Language Models: A Comprehensive Survey | 2025 | IEEE Geoscience and Remote Sensing Magazine | VLMs, (Spatio-)Temporal-VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3598283) |
-| Vision-Language Models in Remote Sensing: Current Progress and Future Trends | 2024 | IEEE Geoscience and Remote Sensing Magazine | VLMs | [DOI](https://doi.org/10.1109/MGRS.2024.3383473) |
-| Vision Foundation Models in Remote Sensing: A Survey | 2025 | IEEE Geoscience and Remote Sensing Magazine | Vision Foundation Models, SSL  | [DOI](https://doi.org/10.1109/MGRS.2025.3541952) |
-| Artificial Intelligence to Advance Earth Observation: A Review of Models, Recent Trends, and Pathways Forward | 2025 | IEEE Geoscience and Remote Sensing Magazine | Representation Learning | [DOI](https://doi.org/10.1109/MGRS.2024.3425961) |
-| Vision-Language Modeling Meets Remote Sensing: Models, Datasets, and Perspectives | 2025 | IEEE Geoscience and Remote Sensing Magazine | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3572702) |
-| Foundation Models for Remote Sensing and Earth Observation: A Survey | 2025 | IEEE Geoscience and Remote Sensing Magazine | Vision Foundation Models, VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3576766) |
-| Regression in Earth Observation: Are Vision--Language Models up to the Challenge? | 2025 | IEEE Geoscience and Remote Sensing Magazine | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3596243) |
+| From Orbit to Ground: A Comprehensive Review of Multimodal Self-Supervised Learning for Remote Sensing | 2025 | IEEE MGRS | Multimodal, SSL | [DOI](https://doi.org/10.1109/MGRS.2025.3588505) |
+| Remote Sensing Spatiotemporal Vision--Language Models: A Comprehensive Survey | 2025 | IEEE MGRS | VLMs, (Spatio-)Temporal-VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3598283) |
+| Vision-Language Models in Remote Sensing: Current Progress and Future Trends | 2024 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2024.3383473) |
+| Vision Foundation Models in Remote Sensing: A Survey | 2025 | IEEE MGRS | Vision Foundation Models, SSL  | [DOI](https://doi.org/10.1109/MGRS.2025.3541952) |
+| Artificial Intelligence to Advance Earth Observation: A Review of Models, Recent Trends, and Pathways Forward | 2025 | IEEE MGRS | Representation Learning | [DOI](https://doi.org/10.1109/MGRS.2024.3425961) |
+| Vision-Language Modeling Meets Remote Sensing: Models, Datasets, and Perspectives | 2025 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3572702) |
+| Foundation Models for Remote Sensing and Earth Observation: A Survey | 2025 | IEEE MGRS | Vision Foundation Models, VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3576766) |
+| Regression in Earth Observation: Are Vision--Language Models up to the Challenge? | 2025 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3596243) |
 
 ## Scene Synthesis
 
 ### Unconditional Generation
 
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
+
 ### Text-to-Image Generation
+
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
 
 ## Controllable & Structural Synthesis
 
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
+
 ## Image-to-Image Translation & Restoration
+
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
 
 ## Inpainting & Content Editing
 
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
+| Exploring Text-Guided Single Image Editing for Remote Sensing Images | 2025 | JSTAR | [DOI](https://doi.org/10.1109/JSTARS.2025.3584418) | N/A |
+
 ## Multi-temporal & Sequence Generation
+
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
 
 ## Datasets
 
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
+| TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data | 2025 | CVPR Workshop | | |
+| TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06281) | |
+| SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | |
+| MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [DOI](https://doi.org/10.1007/978-3-031-73039-9_10) | |
+| Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | |
+| Galileo: Learning Global & Local Features of Many Remote Sensing Modalities | 2025 | ICML | | |
+| EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision | 2025 | WACV Workshop | | |
+| Towards a Unified Copernicus Foundation Model for Earth Vision | 2025 | ICCV | | |
+| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | |
+| OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [DOI](https://doi.org/10.1109/WACV56688.2023.00619) | |
+| OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | |
+
 ## Evaluation Metrics
+
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
 
 ## Contributing
 
