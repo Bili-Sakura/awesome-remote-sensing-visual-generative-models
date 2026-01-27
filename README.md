@@ -7,20 +7,11 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 ## Contents
 
 - [Survey Papers](#survey-papers)
-- [Preliminaries](#preliminaries)
-  - [VAEs](#variational-autoencoders-vaes)
-  - [GANs](#generative-adversarial-networks-gans)
-  - [Diffusion Models](#diffusion-models-prelim)
-  - [Autoregressive Models](#autoregressive-models-prelim)
 - [Scene Synthesis](#scene-synthesis)
   - [Unconditional Generation](#unconditional-generation)
   - [Text-to-Image Generation](#text-to-image-generation)
 - [Controllable & Structural Synthesis](#controllable--structural-synthesis)
-  - [Layout/Mask-to-Image](#layoutmask-to-image)
-  - [GIS-to-Image](#gis-to-image)
 - [Image-to-Image Translation & Restoration](#image-to-image-translation--restoration)
-  - [Restoration & Enhancement](#restoration--enhancement)
-  - [Cross-Domain Translation](#cross-domain-translation)
 - [Inpainting & Content Editing](#inpainting--content-editing)
 - [Multi-temporal & Sequence Generation](#multi-temporal--sequence-generation)
 - [Datasets](#datasets)
@@ -30,16 +21,6 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Survey Papers
 
-## Preliminaries
-
-### Variational Autoencoders (VAEs)
-
-### Generative Adversarial Networks (GANs)
-
-### Diffusion Models
-
-### Autoregressive Models
-
 ## Scene Synthesis
 
 ### Unconditional Generation
@@ -48,15 +29,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Controllable & Structural Synthesis
 
-### Layout/Mask-to-Image
-
-### GIS-to-Image
-
 ## Image-to-Image Translation & Restoration
-
-### Restoration & Enhancement
-
-### Cross-Domain Translation
 
 ## Inpainting & Content Editing
 
