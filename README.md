@@ -42,6 +42,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
 | ZoomLDM: Latent Diffusion Model for Multi-scale Image Generation | 2025 | CVPR | [arXiv](https://arxiv.org/abs/2411.16969) | [GitHub](https://github.com/cvlab-stonybrook/ZoomLDM) |
 | MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation | 2025 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2024.3507010) | [GitHub](https://github.com/jiupinjia/MetaEarth) |
+| RSVQ-Diffusion Model for Text-to-Remote-Sensing Image Generation | 2025 | Applied Sciences | [DOI](https://doi.org/10.3390/app15031121) | N/A |
 | DiffusionSat: A Generative Foundation Model for Satellite Imagery | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2312.03606) | [GitHub](https://github.com/samar-khanna/DiffusionSat) |
 | RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model | 2024 | Neural Computing and Applications | [DOI](https://doi.org/10.1007/s00521-024-10363-3) | N/A |
 
@@ -50,6 +51,15 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Transferable Image Synthesis for Remote Sensing Semantic Segmentation via Joint Reference-Semantic Fusion | 2026 | Information Fusion | [DOI](https://doi.org/10.1016/j.inffus.2025.103839) | N/A |
+| EarthSynth: Generating Informative Earth Observation with Diffusion Models | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2505.12108) | N/A |
+| Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.16740) | N/A |
+| TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2510.21391) | N/A |
+| Cascaded Autoregressive Diffusion Models for Remote Sensing Scene Generation | 2025 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3622225) | N/A |
+| GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis | 2024 | CVPR | [arXiv](https://arxiv.org/abs/2403.18959) | [GitHub](https://github.com/mvrl/GeoSynth) |
+| SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation | 2024 | CVPR | [arXiv](https://arxiv.org/abs/2403.16605) | N/A |
+| CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3453414) | [GitHub](https://github.com/Sonettoo/CRS-Diff) |
+
 
 ## Image-to-Image Translation & Restoration
 
@@ -60,19 +70,27 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.04678) / [DOI](https://doi.org/10.48550/arXiv.2507.04678) | N/A |
 | Exploring Text-Guided Single Image Editing for Remote Sensing Images | 2025 | JSTAR | [DOI](https://doi.org/10.1109/JSTARS.2025.3584418) | N/A |
+| Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
+| DiffusionSat: A Generative Foundation Model for Satellite Imagery | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2312.03606) | [GitHub](https://github.com/samar-khanna/DiffusionSat) |
 
 ## Multi-temporal & Sequence Generation
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Generating Any Changes in the Noise Domain | 2025 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2025.3643733) | N/A |
+| ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model | 2025 | AAAI | [DOI](https://doi.org/10.1609/aaai.v39i9.33058) | [GitHub](https://github.com/DZhaoXd/ChangeDiff) |
+| UniTS: Unified Time Series Generative Model for Remote Sensing | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.04461) | [GitHub](https://github.com/YuxiangZhang-BIT/UniTS) |
+| Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model | 2024 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2024.3475824) | [GitHub](https://github.com/Z-Zheng/pytorch-change-models) |
+| Scalable Multi-Temporal Remote Sensing Change Data Generation via Simulating Stochastic Change Process | 2023 | ICCV | [DOI](https://doi.org/10.1109/ICCV51070.2023.01994) | [GitHub](https://github.com/Z-Zheng/pytorch-change-models) |
 
 ## Datasets
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
 | TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data | 2025 | CVPR Workshop | [arXiv](https://arxiv.org/abs/2504.11172) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
-| TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06281) | [GitHub](https://github.com/mbzuai-oryx/TerraFM) |
+<!-- | TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2506.06281) | [GitHub](https://github.com/mbzuai-oryx/TerraFM) | -->
 | SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
 | MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [DOI](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
 | Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
@@ -82,6 +100,8 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
 | OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [DOI](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
 | OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
+| BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
+
 
 ## Evaluation Metrics
 
