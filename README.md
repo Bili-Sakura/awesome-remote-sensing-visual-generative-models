@@ -37,7 +37,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| Uni-RS: A Spatially Faithful Unified Understanding and Generation Model for Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.17673), [DOI](https://doi.org/10.48550/arXiv.2601.17673) | N/A |
+| Uni-RS: A Spatially Faithful Unified Understanding and Generation Model for Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.17673) | N/A |
 | HSIGene: A Foundation Model for Hyperspectral Image Generation | 2026 | IEEE TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2025.3610927) | [GitHub](https://github.com/LiPang/HSIGene) |
 | Extrapolate Azimuth Angles: Text and Edge Guided ISAR Image Generation Based on Foundation Model | 2026 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2025.12.002) | N/A |
 | Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
@@ -57,7 +57,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.16740) | N/A |
 | TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2510.21391) | N/A |
 | Cascaded Autoregressive Diffusion Models for Remote Sensing Scene Generation | 2025 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3622225) | N/A |
-| GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis | 2024 | CVPR | [CVPR](hhttps://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Sastry_GeoSynth_Contextually-Aware_High-Resolution_Satellite_Image_Synthesis_CVPRW_2024_paper.html) | [GitHub](https://github.com/mvrl/GeoSynth) |
+| GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Sastry_GeoSynth_Contextually-Aware_High-Resolution_Satellite_Image_Synthesis_CVPRW_2024_paper.html) | [GitHub](https://github.com/mvrl/GeoSynth) |
 | SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation | 2024 | CVPR | [CVPR](http://openaccess.thecvf.com//content/CVPR2024/papers/Toker_SatSynth_Augmenting_Image-Mask_Pairs_through_Diffusion_Models_for_Aerial_Semantic_CVPR_2024_paper.pdf) | N/A |
 | CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3453414) | [GitHub](https://github.com/Sonettoo/CRS-Diff) |
 
