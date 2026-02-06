@@ -124,6 +124,9 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark | 2025 | CVPR | [DOI](https://doi.org/10.1109/CVPR52734.2025.00695) | N/A |
 | RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=yn2fJYBKEB) | N/A |
 | RSGPT: A Remote Sensing Vision Language Model and Benchmark | 2025 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2025.03.028) | N/A |
+| RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-Based Question Answering | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2508.07918) | N/A |
+| S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications | 2025 | CVPR Workshop | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Masquil_S-EO_A_Large-Scale_Dataset_for_Geometry-Aware_Shadow_Detection_in_Remote_CVPRW_2025_paper.html) | N/A |
+| Git-10M (Text2Earth): Text-Driven Remote Sensing Image Generation Dataset | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | N/A |
 | reBen: Refined BigEarthNet Dataset for Remote Sensing Image Analysis | 2025 | IGARSS | [DOI](https://doi.org/10.1109/IGARSS55030.2025.11242834) | N/A |
 
 
