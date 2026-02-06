@@ -98,7 +98,6 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 > [!IMPORTANT]
 > This section mainly lists dataset papers from 2025 onward, with a few earlier references for context.
-> SAR vision-language datasets include [SARLANG-1M](https://doi.org/10.1109/TGRS.2026.3652099) and [SAR-TEXT](https://doi.org/10.48550/arXiv.2507.18743); [OpenEarthMap-SAR](https://doi.org/10.1109/MGRS.2025.3599512) provides SAR segmentation maps; [BRIGHT](https://doi.org/10.5194/essd-17-6217-2025) offers optical-SAR image pairs.
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
@@ -117,12 +116,12 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.02783) | N/A |
 | GAIA: A Global, Multimodal, Multiscale Vision-Language Dataset for Remote Sensing Image Analysis | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3650613) | N/A |
 | A Large-Scale Image–Text Dataset Benchmark for Farmland Segmentation | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-4835-2025) | N/A |
-| CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=GZ5LI6Fetp) | N/A |
+| CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models | 2025 | NeurIPS D&B | [OpenReview](https://openreview.net/forum?id=GZ5LI6Fetp) | N/A |
 | Constructing an Extensible Building Damage (EBD) Dataset via Semi-Supervised Fine-Tuning Across 12 Natural Disasters | 2025 | Journal of Remote Sensing | [DOI](https://doi.org/10.34133/remotesensing.0733) | N/A |
-| DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=sQO1ZEQGqX) | N/A |
+| DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response | 2025 | NeurIPS D&B | [OpenReview](https://openreview.net/forum?id=sQO1ZEQGqX) | N/A |
 | JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2502.13407v4) | N/A |
 | RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark | 2025 | CVPR | [DOI](https://doi.org/10.1109/CVPR52734.2025.00695) | N/A |
-| RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=yn2fJYBKEB) | N/A |
+| RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events | 2025 | NeurIPS D&B | [OpenReview](https://openreview.net/forum?id=yn2fJYBKEB) | N/A |
 | RSGPT: A Remote Sensing Vision Language Model and Benchmark | 2025 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2025.03.028) | N/A |
 | RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-Based Question Answering | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2508.07918) | N/A |
 | S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications | 2025 | CVPR Workshop | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Masquil_S-EO_A_Large-Scale_Dataset_for_Geometry-Aware_Shadow_Detection_in_Remote_CVPRW_2025_paper.html) | N/A |
