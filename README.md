@@ -121,6 +121,9 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Constructing an Extensible Building Damage (EBD) Dataset via Semi-Supervised Fine-Tuning Across 12 Natural Disasters | 2025 | Journal of Remote Sensing | [DOI](https://doi.org/10.34133/remotesensing.0733) | N/A |
 | DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=sQO1ZEQGqX) | N/A |
 | JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2502.13407v4) | N/A |
+| RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark | 2025 | CVPR | [DOI](https://doi.org/10.1109/CVPR52734.2025.00695) | N/A |
+| RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=yn2fJYBKEB) | N/A |
+| RSGPT: A Remote Sensing Vision Language Model and Benchmark | 2025 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2025.03.028) | N/A |
 | reBen: Refined BigEarthNet Dataset for Remote Sensing Image Analysis | 2025 | IGARSS | [DOI](https://doi.org/10.1109/IGARSS55030.2025.11242834) | N/A |
 
 
