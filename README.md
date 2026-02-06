@@ -98,21 +98,21 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 > [!IMPORTANT]
 > This section mainly lists dataset papers from 2025 onward, with a few earlier references for context.
-> Optical-SAR image pair datasets include [SARLANG-1M](https://doi.org/10.1109/TGRS.2026.3652099), [OpenEarthMap-SAR](https://doi.org/10.1109/MGRS.2025.3599512), and [BRIGHT](https://doi.org/10.5194/essd-17-6217-2025).
+> SAR vision-language datasets include [SARLANG-1M](https://doi.org/10.1109/TGRS.2026.3652099) and [SAR-TEXT](https://doi.org/10.48550/arXiv.2507.18743); [OpenEarthMap-SAR](https://doi.org/10.1109/MGRS.2025.3599512) provides SAR segmentation maps; [BRIGHT](https://doi.org/10.5194/essd-17-6217-2025) offers optical-SAR image pairs.
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data | 2025 | CVPR Workshop | [arXiv](https://arxiv.org/abs/2504.11172) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
-| SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
+| TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data (SSL, Temporal, Multi-Sensor) | 2025 | CVPR Workshop | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.html) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
+| SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning (SAR Vision-Language) | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
 | MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [ECCV](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
 | Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
 | Galileo: Learning Global & Local Features of Many Remote Sensing Modalities | 2025 | ICML | [ICML](https://openreview.net/forum?id=gqZO3eSZRy) | [GitHub](https://github.com/nasaharvest/galileo) |
-| EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision | 2025 | WACV Workshop | [arXiv](https://arxiv.org/abs/2501.08111) | [GitHub](https://github.com/satellogic/satellogic-earthview) |
+| EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision (SSL, Temporal, Multi-Sensor) | 2025 | WACV Workshop | [WACVW](https://openaccess.thecvf.com/content/WACV2025W/CV4EO/html/Velazquez_EarthView_A_Large_Scale_Remote_Sensing_Dataset_for_Self-Supervision_WACVW_2025_paper.html) | [GitHub](https://github.com/satellogic/satellogic-earthview) |
 | Towards a Unified Copernicus Foundation Model for Earth Vision | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Towards_a_Unified_Copernicus_Foundation_Model_for_Earth_Vision_ICCV_2025_paper.html) | [GitHub](https://github.com/zhu-xlab/Copernicus-FM) |
-| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
+| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding (SAR Vision-Language) | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
 | OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [WACV](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
-| OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
-| BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
+| OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping (SAR Segmentation Maps) | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
+| BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response (Optical-SAR Pairs) | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
 
 
 ## Evaluation Metrics
