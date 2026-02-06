@@ -113,6 +113,15 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [WACV](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
 | OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping (SAR Segmentation Maps) | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
 | BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response (Optical-SAR Pairs) | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
+| ChatEarthBench: Benchmarking Multimodal Large Language Models for Earth Observation | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2026.3650840) | N/A |
+| EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.02783) | N/A |
+| GAIA: A Global, Multimodal, Multiscale Vision-Language Dataset for Remote Sensing Image Analysis | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3650613) | N/A |
+| A Large-Scale Image–Text Dataset Benchmark for Farmland Segmentation | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-4835-2025) | N/A |
+| CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=GZ5LI6Fetp) | N/A |
+| Constructing an Extensible Building Damage (EBD) Dataset via Semi-Supervised Fine-Tuning Across 12 Natural Disasters | 2025 | Journal of Remote Sensing | [DOI](https://doi.org/10.34133/remotesensing.0733) | N/A |
+| DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response | 2025 | OpenReview | [OpenReview](https://openreview.net/forum?id=sQO1ZEQGqX) | N/A |
+| JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2502.13407v4) | N/A |
+| reBen: Refined BigEarthNet Dataset for Remote Sensing Image Analysis | 2025 | IGARSS | [DOI](https://doi.org/10.1109/IGARSS55030.2025.11242834) | N/A |
 
 
 ## Evaluation Metrics
