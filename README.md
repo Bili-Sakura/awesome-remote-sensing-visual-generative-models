@@ -98,6 +98,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 > [!IMPORTANT]
 > This section mainly lists dataset papers from 2025 onward, with a few earlier references for context.
+> Optical-SAR image pair datasets include [SARLANG-1M](https://doi.org/10.1109/TGRS.2026.3652099), [OpenEarthMap-SAR](https://doi.org/10.1109/MGRS.2025.3599512), and [BRIGHT](https://doi.org/10.5194/essd-17-6217-2025).
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
