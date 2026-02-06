@@ -97,7 +97,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 ## Datasets
 
 > [!IMPORTANT]
-> This section mainly lists dataset papers starting from 2025.
+> This section mainly lists dataset papers from 2025 onward, with a few earlier references for context.
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
