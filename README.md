@@ -13,10 +13,10 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 - [Inpainting & Content Editing](#inpainting--content-editing)
 - [Multi-temporal & Sequence Generation](#multi-temporal--sequence-generation)
 - [Generative Modeling for Discriminative Tasks](#generative-modeling-for-discriminative-tasks)
+- [Datasets](#datasets)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Contributing](#contributing)
 - [License](#license)
-<!-- - [Datasets](#datasets) -->
 
 ## Survey Papers
 
@@ -94,7 +94,10 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jia_Can_Generative_Geospatial_Diffusion_Models_Excel_as_Discriminative_Geospatial_Foundation_ICCV_2025_paper.html) | [GitHub](https://github.com/yurujaja/SatDiFuser) |
 | RemoteVAR: Autoregressive Visual Modeling for Remote Sensing Change Detection | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.11898) | [GitHub](https://github.com/yilmazkorkmaz1/RemoteVAR) |
 
-<!-- ## Datasets
+## Datasets
+
+> [!IMPORTANT]
+> This section mainly lists dataset papers starting from 2025.
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
@@ -108,7 +111,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
 | OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [WACV](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
 | OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
-| BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) | -->
+| BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
 
 
 ## Evaluation Metrics
