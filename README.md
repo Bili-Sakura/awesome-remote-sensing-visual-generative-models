@@ -69,6 +69,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 |-------|------|-------|------------|-----------|
 | Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.18623) | N/A |
 | Efficient End-to-End Diffusion Model for One-Step SAR-to-Optical Translation | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2024.3506566) | N/A |
+| 3rd Multi-modal Aerial View Image Challenge: Sensor Domain Translation - PBVS 2025 | 2025 | CVPRW (PBVS) | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/html/Bowald_3rd_Multi-modal_Aerial_View_Image_Challenge_Sensor_Domain_Translation_-_CVPRW_2025_paper.html) | N/A |
 | Conditional Diffusion Model With Spatial-Frequency Refinement for SAR-to-Optical Image Translation | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3491826) | N/A |
 | SAR-to-Optical Image Translation With Hierarchical Latent Features | 2022 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2022.3200996) | N/A |
 | Gan-based SAR to Optical Image Translation in Fire-Disturbed Regions | 2022 | IGARSS | [DOI](https://doi.org/10.1109/IGARSS46834.2022.9884234) | N/A |
