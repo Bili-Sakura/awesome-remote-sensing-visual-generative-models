@@ -78,6 +78,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| DreamCD: A Change-Label-Free Framework for Change Detection via a Weakly Conditional Semantic Diffusion Model in Optical VHR Imagery | 2026 | JAG | [DOI](https://doi.org/10.1016/j.jag.2026.105125) | [GitHub](https://github.com/tangkai-RS/DreamCD) |
 | ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.04678)  | N/A |
 | Exploring Text-Guided Single Image Editing for Remote Sensing Images | 2025 | JSTAR | [DOI](https://doi.org/10.1109/JSTARS.2025.3584418) | N/A |
 | Text2Earth: Unlocking Text-Driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | [GitHub](https://github.com/chen-yang-liu/Text2Earth) |
@@ -115,6 +116,8 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision (SSL, Temporal, Multi-Sensor) | 2025 | WACV Workshop | [WACVW](https://openaccess.thecvf.com/content/WACV2025W/CV4EO/html/Velazquez_EarthView_A_Large_Scale_Remote_Sensing_Dataset_for_Self-Supervision_WACVW_2025_paper.html) | [GitHub](https://github.com/satellogic/satellogic-earthview) |
 | Towards a Unified Copernicus Foundation Model for Earth Vision | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Towards_a_Unified_Copernicus_Foundation_Model_for_Earth_Vision_ICCV_2025_paper.html) | [GitHub](https://github.com/zhu-xlab/Copernicus-FM) |
 | SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding (SAR Vision-Language) | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
+| SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2602.05480) | [GitHub](https://github.com/PeihaoWu/SOMA-1M) |
+| MaRS: A Multi-Modality Very-High-Resolution Remote Sensing Foundation Model with Cross-Granularity Meta-Modality Learning | 2026 | AAAI | N/A | [GitHub](https://github.com/WanderRainy/MaRS) |
 | OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [WACV](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
 | OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping (SAR Segmentation Maps) | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
 | BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response (Optical-SAR Pairs) | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
