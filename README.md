@@ -142,6 +142,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Rethinking FID: Towards a Better Evaluation Metric for Image Generation (KID, FID, sFID, CMMD, SSIM, LPIPS) | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2401.09603) | [GitHub](https://github.com/google-research/google-research/tree/master/cmmd) |
 
 ## Contributing
 
