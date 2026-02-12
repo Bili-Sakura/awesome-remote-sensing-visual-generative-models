@@ -8,7 +8,6 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 - [Survey Papers](#survey-papers)
 - [Scene Synthesis (Unconditional/Text-to-Image Generation)](#scene-synthesis-unconditionaltext-to-image-generation)
-- [Conditional Generation](#conditional-generation)
 - [Controllable & Structural Synthesis](#controllable--structural-synthesis)
 - [Image-to-Image Translation & Restoration](#image-to-image-translation--restoration)
 - [Inpainting & Content Editing](#inpainting--content-editing)
@@ -50,17 +49,11 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model | 2024 | Neural Computing and Applications | [DOI](https://doi.org/10.1007/s00521-024-10363-3) | N/A |
 
 
-## Conditional Generation
-
-| Title | Year | Venue | Paper Link | Code Link |
-|-------|------|-------|------------|-----------|
-| Object Fidelity Diffusion for Remote Sensing Image Generation | 2026 | ICLR | [ICLR](https://openreview.net/forum?id=ngfIm9aPsH) | [GitHub](https://github.com/VisionXLab/OF-Diff) |
-
-
 ## Controllable & Structural Synthesis
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Object Fidelity Diffusion for Remote Sensing Image Generation | 2026 | ICLR | [ICLR](https://openreview.net/forum?id=ngfIm9aPsH) | [GitHub](https://github.com/VisionXLab/OF-Diff) |
 | Transferable Image Synthesis for Remote Sensing Semantic Segmentation via Joint Reference-Semantic Fusion | 2026 | Information Fusion | [DOI](https://doi.org/10.1016/j.inffus.2025.103839) | N/A |
 | EarthSynth: Generating Informative Earth Observation with Diffusion Models | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2505.12108) | N/A |
 | Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.16740) | N/A |
