@@ -8,6 +8,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 - [Survey Papers](#survey-papers)
 - [Scene Synthesis (Unconditional/Text-to-Image Generation)](#scene-synthesis-unconditionaltext-to-image-generation)
+- [Conditional Generation](#conditional-generation)
 - [Controllable & Structural Synthesis](#controllable--structural-synthesis)
 - [Image-to-Image Translation & Restoration](#image-to-image-translation--restoration)
 - [Inpainting & Content Editing](#inpainting--content-editing)
@@ -47,6 +48,13 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | RSVQ-Diffusion Model for Text-to-Remote-Sensing Image Generation | 2025 | Applied Sciences | [DOI](https://doi.org/10.3390/app15031121) | N/A |
 | DiffusionSat: A Generative Foundation Model for Satellite Imagery | 2024 | ICLR | [ICLR](https://openreview.net/forum?id=I5webNFDgQ) | [GitHub](https://github.com/samar-khanna/DiffusionSat) |
 | RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model | 2024 | Neural Computing and Applications | [DOI](https://doi.org/10.1007/s00521-024-10363-3) | N/A |
+
+
+## Conditional Generation
+
+| Title | Year | Venue | Paper Link | Code Link |
+|-------|------|-------|------------|-----------|
+| Object Fidelity Diffusion for Remote Sensing Image Generation | 2026 | ICLR | [ICLR](https://openreview.net/forum?id=ngfIm9aPsH) | [GitHub](https://github.com/VisionXLab/OF-Diff) |
 
 
 ## Controllable & Structural Synthesis
