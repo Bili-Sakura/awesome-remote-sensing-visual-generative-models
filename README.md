@@ -68,7 +68,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.18623) | N/A |
+| Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation | 2026 | ICLR | [OpenReview](https://openreview.net/forum?id=it0GTdiW9t) | [GitHub](https://github.com/LaplaceLab/CDTSDE) |
 | Efficient End-to-End Diffusion Model for One-Step SAR-to-Optical Translation | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2024.3506566) | N/A |
 | 3rd Multi-modal Aerial View Image Challenge: Sensor Domain Translation - PBVS 2025 | 2025 | CVPRW (PBVS) | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/html/Bowald_3rd_Multi-modal_Aerial_View_Image_Challenge_Sensor_Domain_Translation_-_CVPRW_2025_paper.html) | N/A |
 | Conditional Diffusion Model With Spatial-Frequency Refinement for SAR-to-Optical Image Translation | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3491826) | N/A |
@@ -110,6 +110,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Remote Sensing Meta Modal Representation for Missing Modality Land Cover Mapping: From EarthMiss Dataset to MetaRS Method | 2025 | Remote Sensing of Environment | [DOI](https://doi.org/10.1016/j.rse.2025.115132) | [GitHub](https://github.com/Yi-Heng/EarthMiss) |
 | TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data (SSL, Temporal, Multi-Sensor) | 2025 | CVPR Workshop | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.html) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
 | SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning (SAR Vision-Language) | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
 | MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [ECCV](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
@@ -144,7 +145,11 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| Rethinking FID: Towards a Better Evaluation Metric for Image Generation (KID, FID, sFID, CMMD, SSIM, LPIPS) | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2401.09603) | [GitHub](https://github.com/google-research/google-research/tree/master/cmmd) |
+| Rethinking FID: Towards a Better Evaluation Metric for Image Generation (KID, FID, sFID, CMMD, SSIM, LPIPS) | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/html/Jayasumana_Rethinking_FID_Towards_a_Better_Evaluation_Metric_for_Image_Generation_CVPR_2024_paper.html) | [GitHub](https://github.com/google-research/google-research/tree/master/cmmd) |
+| Image Quality Assessment: From Error Visibility to Structural Similarity (SSIM) | 2004 | IEEE TIP | [DOI](https://doi.org/10.1109/TIP.2003.819861) | N/A |
+| GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (FID) | 2017 | NeurIPS | [NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html) | N/A |
+| The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS) | 2018 | CVPR | [CVPR](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.html) | [GitHub](https://github.com/richzhang/PerceptualSimilarity) |
+| Demystifying MMD GANs (KID) | 2018 | ICLR | [OpenReview](https://openreview.net/forum?id=r1lUOzWCW) | [GitHub](https://github.com/mbinkowski/MMD-GAN) |
 
 ## Contributing
 
