@@ -101,6 +101,8 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 |-------|------|-------|------------|-----------|
 | TerraMind: Large-Scale Generative Multimodality for Earth Observation | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jakubik_TerraMind_Large-Scale_Generative_Multimodality_for_Earth_Observation_ICCV_2025_paper.html) | [GitHub](https://github.com/IBM/terramind)  |
 | Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jia_Can_Generative_Geospatial_Diffusion_Models_Excel_as_Discriminative_Geospatial_Foundation_ICCV_2025_paper.html) | [GitHub](https://github.com/yurujaja/SatDiFuser) |
+| DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection | 2025 | WACV | [arXiv](https://arxiv.org/abs/2206.11892) | [GitHub](https://github.com/wgcban/ddpm-cd) |
+| DreamCD: A Change-Label-Free Framework for Change Detection via a Weakly Conditional Semantic Diffusion Model in Optical VHR Imagery | 2026 | JAG | [DOI](https://doi.org/10.1016/j.jag.2026.105125) | [GitHub](https://github.com/tangkai-RS/DreamCD) |
 | RemoteVAR: Autoregressive Visual Modeling for Remote Sensing Change Detection | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.11898) | [GitHub](https://github.com/yilmazkorkmaz1/RemoteVAR) |
 
 ## Datasets
