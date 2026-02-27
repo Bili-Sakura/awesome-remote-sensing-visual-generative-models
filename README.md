@@ -62,6 +62,9 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Sastry_GeoSynth_Contextually-Aware_High-Resolution_Satellite_Image_Synthesis_CVPRW_2024_paper.html) | [GitHub](https://github.com/mvrl/GeoSynth) |
 | SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation | 2024 | CVPR | [CVPR](http://openaccess.thecvf.com//content/CVPR2024/papers/Toker_SatSynth_Augmenting_Image-Mask_Pairs_through_Diffusion_Models_for_Aerial_Semantic_CVPR_2024_paper.pdf) | N/A |
 | CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3453414) | [GitHub](https://github.com/Sonettoo/CRS-Diff) |
+| VectorSynth: Fine-Grained Satellite Image Synthesis with Structured Semantics | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2511.07744) | [GitHub](https://github.com/mvrl/VectorSynth) |
+| Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps | 2023 | NeurIPS Workshop (Diffusion Models) | [PDF](https://nbviewer.org/github/miquel-espinosa/map-sat/blob/main/imgs/NeurIPS_Workshop_23_Diffusion_Models.pdf) | [GitHub](https://github.com/miquel-espinosa/map-sat) |
+| Multi-Grained Guided Diffusion for Quantity-Controlled Remote Sensing Object Generation | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2025.3565817) | [GitHub](https://github.com/YZPioneer/MGDiff) |
 
 
 ## Image-to-Image Translation & Restoration
