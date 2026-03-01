@@ -27,12 +27,12 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 |-------|------|-------|------|------|
 | From Orbit to Ground: A Comprehensive Review of Multimodal Self-Supervised Learning for Remote Sensing | 2025 | IEEE MGRS | Multimodal, SSL | [DOI](https://doi.org/10.1109/MGRS.2025.3588505) |
 | Remote Sensing Spatiotemporal Vision--Language Models: A Comprehensive Survey | 2025 | IEEE MGRS | VLMs, (Spatio-)Temporal-VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3598283) |
-| Vision-Language Models in Remote Sensing: Current Progress and Future Trends | 2024 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2024.3383473) |
 | Vision Foundation Models in Remote Sensing: A Survey | 2025 | IEEE MGRS | Vision Foundation Models, SSL  | [DOI](https://doi.org/10.1109/MGRS.2025.3541952) |
 | Artificial Intelligence to Advance Earth Observation: A Review of Models, Recent Trends, and Pathways Forward | 2025 | IEEE MGRS | Representation Learning | [DOI](https://doi.org/10.1109/MGRS.2024.3425961) |
 | Vision-Language Modeling Meets Remote Sensing: Models, Datasets, and Perspectives | 2025 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3572702) |
 | Foundation Models for Remote Sensing and Earth Observation: A Survey | 2025 | IEEE MGRS | Vision Foundation Models, VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3576766) |
 | Regression in Earth Observation: Are Vision--Language Models up to the Challenge? | 2025 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3596243) |
+| Vision-Language Models in Remote Sensing: Current Progress and Future Trends | 2024 | IEEE MGRS | VLMs | [DOI](https://doi.org/10.1109/MGRS.2024.3383473) |
 
 ## Scene Synthesis (Unconditional/Text-to-Image Generation)
 
@@ -55,16 +55,16 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 |-------|------|-------|------------|-----------|
 | Object Fidelity Diffusion for Remote Sensing Image Generation | 2026 | ICLR | [ICLR](https://openreview.net/forum?id=ngfIm9aPsH) | [GitHub](https://github.com/VisionXLab/OF-Diff) |
 | Transferable Image Synthesis for Remote Sensing Semantic Segmentation via Joint Reference-Semantic Fusion | 2026 | Information Fusion | [DOI](https://doi.org/10.1016/j.inffus.2025.103839) | N/A |
+| VectorSynth: Fine-Grained Satellite Image Synthesis with Structured Semantics | 2026 | WACV | [arXiv](https://arxiv.org/abs/2511.07744) | [GitHub](https://github.com/mvrl/VectorSynth) |
 | EarthSynth: Generating Informative Earth Observation with Diffusion Models | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2505.12108) | N/A |
 | Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.16740) | N/A |
 | TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2510.21391) | N/A |
 | Cascaded Autoregressive Diffusion Models for Remote Sensing Scene Generation | 2025 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3622225) | N/A |
+| Multi-Grained Guided Diffusion for Quantity-Controlled Remote Sensing Object Generation | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2025.3565817) | [GitHub](https://github.com/YZPioneer/MGDiff) |
 | GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Sastry_GeoSynth_Contextually-Aware_High-Resolution_Satellite_Image_Synthesis_CVPRW_2024_paper.html) | [GitHub](https://github.com/mvrl/GeoSynth) |
 | SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation | 2024 | CVPR | [CVPR](http://openaccess.thecvf.com//content/CVPR2024/papers/Toker_SatSynth_Augmenting_Image-Mask_Pairs_through_Diffusion_Models_for_Aerial_Semantic_CVPR_2024_paper.pdf) | N/A |
 | CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3453414) | [GitHub](https://github.com/Sonettoo/CRS-Diff) |
-| VectorSynth: Fine-Grained Satellite Image Synthesis with Structured Semantics | 2026 | WACV | [arXiv](https://arxiv.org/abs/2511.07744) | [GitHub](https://github.com/mvrl/VectorSynth) |
 | Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps | 2023 | NeurIPS Workshop (Diffusion Models) | [PDF](https://nbviewer.org/github/miquel-espinosa/map-sat/blob/main/imgs/NeurIPS_Workshop_23_Diffusion_Models.pdf) | [GitHub](https://github.com/miquel-espinosa/map-sat) |
-| Multi-Grained Guided Diffusion for Quantity-Controlled Remote Sensing Object Generation | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2025.3565817) | [GitHub](https://github.com/YZPioneer/MGDiff) |
 
 
 ## Image-to-Image Translation & Restoration
@@ -103,12 +103,12 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
-| TerraMind: Large-Scale Generative Multimodality for Earth Observation | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jakubik_TerraMind_Large-Scale_Generative_Multimodality_for_Earth_Observation_ICCV_2025_paper.html) | [GitHub](https://github.com/IBM/terramind)  |
-| Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jia_Can_Generative_Geospatial_Diffusion_Models_Excel_as_Discriminative_Geospatial_Foundation_ICCV_2025_paper.html) | [GitHub](https://github.com/yurujaja/SatDiFuser) |
-| DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection | 2025 | WACV | [arXiv](https://arxiv.org/abs/2206.11892) | [GitHub](https://github.com/wgcban/ddpm-cd) |
 | DreamCD: A Change-Label-Free Framework for Change Detection via a Weakly Conditional Semantic Diffusion Model in Optical VHR Imagery | 2026 | JAG | [DOI](https://doi.org/10.1016/j.jag.2026.105125) | [GitHub](https://github.com/tangkai-RS/DreamCD) |
 | DiffRegCD: Integrated Registration and Change Detection with Diffusion Features | 2026 | WACV | [arXiv](https://arxiv.org/abs/2511.07935) | N/A |
 | RemoteVAR: Autoregressive Visual Modeling for Remote Sensing Change Detection | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.11898) | [GitHub](https://github.com/yilmazkorkmaz1/RemoteVAR) |
+| TerraMind: Large-Scale Generative Multimodality for Earth Observation | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jakubik_TerraMind_Large-Scale_Generative_Multimodality_for_Earth_Observation_ICCV_2025_paper.html) | [GitHub](https://github.com/IBM/terramind)  |
+| Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jia_Can_Generative_Geospatial_Diffusion_Models_Excel_as_Discriminative_Geospatial_Foundation_ICCV_2025_paper.html) | [GitHub](https://github.com/yurujaja/SatDiFuser) |
+| DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection | 2025 | WACV | [arXiv](https://arxiv.org/abs/2206.11892) | [GitHub](https://github.com/wgcban/ddpm-cd) |
 
 ## Datasets
 
@@ -117,25 +117,23 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
+| Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
+| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding (SAR Vision-Language) | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
+| SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2602.05480) | [GitHub](https://github.com/PeihaoWu/SOMA-1M) |
+| MaRS: A Multi-Modality Very-High-Resolution Remote Sensing Foundation Model with Cross-Granularity Meta-Modality Learning | 2026 | AAAI | N/A | [GitHub](https://github.com/WanderRainy/MaRS) |
+| ChatEarthBench: Benchmarking Multimodal Large Language Models for Earth Observation | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2026.3650840) | N/A |
+| EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.02783) | N/A |
+| GAIA: A Global, Multimodal, Multiscale Vision-Language Dataset for Remote Sensing Image Analysis | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3650613) | N/A |
 | Remote Sensing Meta Modal Representation for Missing Modality Land Cover Mapping: From EarthMiss Dataset to MetaRS Method | 2025 | Remote Sensing of Environment | [DOI](https://doi.org/10.1016/j.rse.2025.115132) | [GitHub](https://github.com/Yi-Heng/EarthMiss) |
 | TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data (SSL, Temporal, Multi-Sensor) | 2025 | CVPR Workshop | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.html) | [HF](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh) |
 | Sky-SA (SkySense-O): Fine-Grained Open-World Remote Sensing Interpretation Dataset (Vision-Language) | 2025 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.html) | [GitHub](https://github.com/zqcrafts/SkySense-O) |
 | EarthInstruct (InstructSAM): Instruction-Oriented Object Counting, Detection and Segmentation Benchmark | 2025 | NeurIPS | [OpenReview](https://openreview.net/forum?id=7yRwAEWxto) | [GitHub](https://github.com/VoyagerXvoyagerx/InstructSAM) |
 | SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning (SAR Vision-Language) | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.18743) | [GitHub](https://github.com/YiguoHe/SAR-TEXT) |
-| MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [ECCV](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
-| Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
 | Galileo: Learning Global & Local Features of Many Remote Sensing Modalities | 2025 | ICML | [ICML](https://openreview.net/forum?id=gqZO3eSZRy) | [GitHub](https://github.com/nasaharvest/galileo) |
 | EarthView: A Large Scale Remote Sensing Dataset for Self-Supervision (SSL, Temporal, Multi-Sensor) | 2025 | WACV Workshop | [WACVW](https://openaccess.thecvf.com/content/WACV2025W/CV4EO/html/Velazquez_EarthView_A_Large_Scale_Remote_Sensing_Dataset_for_Self-Supervision_WACVW_2025_paper.html) | [GitHub](https://github.com/satellogic/satellogic-earthview) |
 | Towards a Unified Copernicus Foundation Model for Earth Vision | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Towards_a_Unified_Copernicus_Foundation_Model_for_Earth_Vision_ICCV_2025_paper.html) | [GitHub](https://github.com/zhu-xlab/Copernicus-FM) |
-| SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding (SAR Vision-Language) | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
-| SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2602.05480) | [GitHub](https://github.com/PeihaoWu/SOMA-1M) |
-| MaRS: A Multi-Modality Very-High-Resolution Remote Sensing Foundation Model with Cross-Granularity Meta-Modality Learning | 2026 | AAAI | N/A | [GitHub](https://github.com/WanderRainy/MaRS) |
-| OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [WACV](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
 | OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping (SAR Segmentation Maps) | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3599512) | [GitHub](https://github.com/cliffbb/OpenEarthMap-SAR) |
 | BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response (Optical-SAR Pairs) | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-6217-2025) | [GitHub](https://github.com/ChenHongruixuan/BRIGHT) |
-| ChatEarthBench: Benchmarking Multimodal Large Language Models for Earth Observation | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2026.3650840) | N/A |
-| EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.02783) | N/A |
-| GAIA: A Global, Multimodal, Multiscale Vision-Language Dataset for Remote Sensing Image Analysis | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3650613) | N/A |
 | A Large-Scale Image–Text Dataset Benchmark for Farmland Segmentation | 2025 | Earth System Science Data | [DOI](https://doi.org/10.5194/essd-17-4835-2025) | N/A |
 | CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models | 2025 | NeurIPS D&B | [OpenReview](https://openreview.net/forum?id=GZ5LI6Fetp) | N/A |
 | Constructing an Extensible Building Damage (EBD) Dataset via Semi-Supervised Fine-Tuning Across 12 Natural Disasters | 2025 | Journal of Remote Sensing | [DOI](https://doi.org/10.34133/remotesensing.0733) | N/A |
@@ -148,6 +146,8 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications | 2025 | CVPR Workshop | [CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Masquil_S-EO_A_Large-Scale_Dataset_for_Geometry-Aware_Shadow_Detection_in_Remote_CVPRW_2025_paper.html) | N/A |
 | Git-10M (Text2Earth): Text-Driven Remote Sensing Image Generation Dataset | 2025 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2025.3560455) | N/A |
 | reBen: Refined BigEarthNet Dataset for Remote Sensing Image Analysis | 2025 | IGARSS | [DOI](https://doi.org/10.1109/IGARSS55030.2025.11242834) | N/A |
+| MMEarth: Exploring Multi-modal Pretext Tasks for Geospatial Representation Learning | 2024 | ECCV | [ECCV](https://doi.org/10.1007/978-3-031-73039-9_10) | [GitHub](https://github.com/vishalned/MMEarth-train) |
+| OpenEarthMap: A Benchmark Dataset for Global High-Resolution Land Cover Mapping | 2023 | WACV | [WACV](https://doi.org/10.1109/WACV56688.2023.00619) | [GitHub](https://github.com/bao18/open_earth_map) |
 
 
 ## Evaluation Metrics
@@ -155,10 +155,10 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Title | Year | Venue | Paper Link | Code Link |
 |-------|------|-------|------------|-----------|
 | Rethinking FID: Towards a Better Evaluation Metric for Image Generation (KID, FID, sFID, CMMD, SSIM, LPIPS) | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/html/Jayasumana_Rethinking_FID_Towards_a_Better_Evaluation_Metric_for_Image_Generation_CVPR_2024_paper.html) | [GitHub](https://github.com/google-research/google-research/tree/master/cmmd) |
-| Image Quality Assessment: From Error Visibility to Structural Similarity (SSIM) | 2004 | IEEE TIP | [DOI](https://doi.org/10.1109/TIP.2003.819861) | N/A |
-| GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (FID) | 2017 | NeurIPS | [NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html) | N/A |
 | The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS) | 2018 | CVPR | [CVPR](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.html) | [GitHub](https://github.com/richzhang/PerceptualSimilarity) |
 | Demystifying MMD GANs (KID) | 2018 | ICLR | [OpenReview](https://openreview.net/forum?id=r1lUOzWCW) | [GitHub](https://github.com/mbinkowski/MMD-GAN) |
+| GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (FID) | 2017 | NeurIPS | [NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html) | N/A |
+| Image Quality Assessment: From Error Visibility to Structural Similarity (SSIM) | 2004 | IEEE TIP | [DOI](https://doi.org/10.1109/TIP.2003.819861) | N/A |
 
 ## Contributing
 
