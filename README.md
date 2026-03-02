@@ -109,6 +109,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | TerraMind: Large-Scale Generative Multimodality for Earth Observation | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jakubik_TerraMind_Large-Scale_Generative_Multimodality_for_Earth_Observation_ICCV_2025_paper.html) | [GitHub](https://github.com/IBM/terramind)  |
 | Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? | 2025 | ICCV | [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/Jia_Can_Generative_Geospatial_Diffusion_Models_Excel_as_Discriminative_Geospatial_Foundation_ICCV_2025_paper.html) | [GitHub](https://github.com/yurujaja/SatDiFuser) |
 | DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Remote Sensing Change Detection | 2025 | WACV | [arXiv](https://arxiv.org/abs/2206.11892) | [GitHub](https://github.com/wgcban/ddpm-cd) |
+| DiffDet4SAR: Diffusion-Based Aircraft Target Detection Network for SAR Images | 2024 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2024.3386020) | N/A |
 
 ## Datasets
 
