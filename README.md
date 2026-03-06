@@ -60,10 +60,13 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2512.16740) | N/A |
 | TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2510.21391) | N/A |
 | Cascaded Autoregressive Diffusion Models for Remote Sensing Scene Generation | 2025 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3622225) | N/A |
+| AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation | 2025 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_AeroGen_Enhancing_Remote_Sensing_Object_Detection_with_Diffusion-Driven_Data_Generation_CVPR_2025_paper.html) | [GitHub](https://github.com/Sonettoo/AeroGen) |
 | Multi-Grained Guided Diffusion for Quantity-Controlled Remote Sensing Object Generation | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2025.3565817) | [GitHub](https://github.com/YZPioneer/MGDiff) |
+| UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction | 2025 | IEEE GRSL | [DOI](https://doi.org/10.1109/LGRS.2024.3520133) | [GitHub](https://github.com/zeyuwang-zju/UP-Diff) |
 | GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Sastry_GeoSynth_Contextually-Aware_High-Resolution_Satellite_Image_Synthesis_CVPRW_2024_paper.html) | [GitHub](https://github.com/mvrl/GeoSynth) |
 | SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation | 2024 | CVPR | [CVPR](http://openaccess.thecvf.com//content/CVPR2024/papers/Toker_SatSynth_Augmenting_Image-Mask_Pairs_through_Diffusion_Models_for_Aerial_Semantic_CVPR_2024_paper.pdf) | N/A |
 | CRS-Diff: Controllable Remote Sensing Image Generation With Diffusion Model | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3453414) | [GitHub](https://github.com/Sonettoo/CRS-Diff) |
+| Diffusion-Geo: A Two-Stage Controllable Text-To-Image Generative Model for Remote Sensing Scenarios | 2024 | IGARSS | [DOI](https://doi.org/10.1109/IGARSS53475.2024.10641523) | N/A |
 | Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps | 2023 | NeurIPS Workshop (Diffusion Models) | [PDF](https://nbviewer.org/github/miquel-espinosa/map-sat/blob/main/imgs/NeurIPS_Workshop_23_Diffusion_Models.pdf) | [GitHub](https://github.com/miquel-espinosa/map-sat) |
 
 
