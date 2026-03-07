@@ -47,6 +47,9 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | RSVQ-Diffusion Model for Text-to-Remote-Sensing Image Generation | 2025 | Applied Sciences | [DOI](https://doi.org/10.3390/app15031121) | N/A |
 | DiffusionSat: A Generative Foundation Model for Satellite Imagery | 2024 | ICLR | [ICLR](https://openreview.net/forum?id=I5webNFDgQ) | [GitHub](https://github.com/samar-khanna/DiffusionSat) |
 | RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model | 2024 | Neural Computing and Applications | [DOI](https://doi.org/10.1007/s00521-024-10363-3) | N/A |
+| UnmixDiff: Unmixing-Based Diffusion Model for Hyperspectral Image Synthesis | 2024 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2024.3425517) | N/A |
+| Unmixing Before Fusion: A Generalized Paradigm for Multi-Source-based Hyperspectral Image Synthesis | 2024 | CVPR | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html) | N/A |
+| Multi-Stage Convolutional Autoencoder Network for Hyperspectral Unmixing | 2022 | Int. J. Appl. Earth Obs. Geoinf. | [DOI](https://doi.org/10.1016/j.jag.2022.102981) | N/A |
 
 
 ## Controllable & Structural Synthesis
