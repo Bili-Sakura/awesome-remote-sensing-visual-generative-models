@@ -135,6 +135,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Prithvi-EO-2.0: A Versatile Multitemporal Foundation Model for Earth Observation Applications | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2025.3642610) | [GitHub](https://github.com/NASA-IMPACT/Prithvi-EO-2.0) |
 | SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding (SAR Vision-Language) | 2026 | IEEE TGRS | [DOI](https://doi.org/10.1109/TGRS.2026.3652099) | [GitHub](https://github.com/jimmyxichen/SARLANG-1M) |
 | SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2602.05480) | [GitHub](https://github.com/PeihaoWu/SOMA-1M) |
+| BD-CC: Keyword-Guided Building Damage Captioning for Bi-Temporal Remote Sensing Images (KGBDCNet) | 2026 | ISPRS JPRS | [DOI](https://doi.org/10.1016/j.isprsjprs.2026.02.031) | [GitHub](https://github.com/Lucky-DW/KGBDCNet) |
 | MaRS: A Multi-Modality Very-High-Resolution Remote Sensing Foundation Model with Cross-Granularity Meta-Modality Learning | 2026 | AAAI | N/A | [GitHub](https://github.com/WanderRainy/MaRS) |
 | ChatEarthBench: Benchmarking Multimodal Large Language Models for Earth Observation | 2026 | IEEE MGRS | [DOI](https://doi.org/10.1109/MGRS.2026.3650840) | N/A |
 | EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework | 2026 | arXiv | [arXiv](https://arxiv.org/abs/2601.02783) | N/A |
