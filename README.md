@@ -23,6 +23,10 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 > [!IMPORTANT] 
 > The following are related survey papers in remote sensing. However, **visual generative models remain under-explored** in all existing remote sensing surveys. This repository aims to fill this gap by providing a comprehensive collection of visual generative models specifically for **satellite images**. We focus exclusively on satellite imagery and exclude aerial images, street-view images, and their applications.
 
+> [!WARNING]
+> We do not fully track the latest code, dataset and venue. We may miss it. Please give us feedback if something is not correct.
+
+
 | Title | Year | Venue | Tags | Link |
 |-------|------|-------|------|------|
 | From Orbit to Ground: A Comprehensive Review of Multimodal Self-Supervised Learning for Remote Sensing | 2025 | IEEE MGRS | Multimodal, SSL | [DOI](https://doi.org/10.1109/MGRS.2025.3588505) |
