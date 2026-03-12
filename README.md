@@ -36,6 +36,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 | Vision-Language Modeling Meets Remote Sensing: Models, Datasets, and Perspectives                             | 2025 | IEEE MGRS | VLMs                           | [DOI](https://doi.org/10.1109/MGRS.2025.3572702) |
 | Foundation Models for Remote Sensing and Earth Observation: A Survey                                          | 2025 | IEEE MGRS | Vision Foundation Models, VLMs | [DOI](https://doi.org/10.1109/MGRS.2025.3576766) |
 | Regression in Earth Observation: Are Vision--Language Models up to the Challenge?                             | 2025 | IEEE MGRS | VLMs                           | [DOI](https://doi.org/10.1109/MGRS.2025.3596243) |
+| Deep Learning Based Domain Adaptation Methods in Remote Sensing: A Comprehensive Survey                        | 2025 | arXiv     | Domain Adaptation              | [DOI](https://doi.org/10.48550/arXiv.2510.15615) |
 | Vision-Language Models in Remote Sensing: Current Progress and Future Trends                                  | 2024 | IEEE MGRS | VLMs                           | [DOI](https://doi.org/10.1109/MGRS.2024.3383473) |
 
 
