@@ -187,7 +187,7 @@ A curated list of awesome remote sensing visual generative models, papers, datas
 
 ## Evaluation Metrics
 
-Metrics are classified by whether they require paired reference images: **paired** metrics compare generated output to a reference (e.g., image translation, restoration), **unpaired** metrics compare distributions of real vs. generated samples (e.g., unconditional generation), and **conditional diversity** metrics quantify the variety of outputs generated for a given input.
+Metrics are classified by whether they require paired reference images: **paired** metrics compare generated output to a reference (e.g., image translation, restoration), while **unpaired** metrics compare distributions of real vs. generated samples (e.g., unconditional generation).
 
 ### Paired Metrics (reference required)
 
@@ -211,12 +211,6 @@ Metrics are classified by whether they require paired reference images: **paired
 | Demystifying MMD GANs                                                                   | KID  | 2018 | ICLR       | [OpenReview](https://openreview.net/forum?id=r1lUOzWCW)                                                                                                            | [GitHub](https://github.com/mbinkowski/MMD-GAN)                               |
 | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium       | FID  | 2017 | NeurIPS    | [NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html)                                                           | N/A                                                                           |
 | Improved Techniques for Training GANs                                                   | IS   | 2016 | NeurIPS    | [NeurIPS](https://proceedings.neurips.cc/paper/2016/hash/8a3363abe792db2d8761d6403605aeb7-Abstract.html)                                                           | [GitHub](https://github.com/openai/improved-gan)                              |
-
-### Conditional Diversity Metrics
-
-| Title                                                                                   | Abbr   | Year | Venue      | Paper Link                                                                                                                                                         | Code Link                                                                     |
-| --------------------------------------------------------------------------------------- | ------ | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| Exploring the Design Space of Diffusion Bridge Models                                   | VS, AFD | 2025 | ICLR       | [OpenReview](https://openreview.net/forum?id=9dEU1gq3v9)                                                                                                            | [GitHub](https://github.com/vertaix/Vendi-Score) (VS)                                                                                        |
 
 
 ## Contributing
